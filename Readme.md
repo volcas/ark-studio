@@ -1,4 +1,4 @@
-﻿## Assignment: ARK Studio
+﻿## Assignment: ARK Studios
 
 ### Problem Statement
 
