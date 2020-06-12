@@ -6,7 +6,7 @@ You are working in the big firm as front-end engineer. Your company like to hear
 
 ![Template.png](img/template.png)
 
-### User Story 1:
+### SSSUser Story 1:
 
 User should have website's navigation bar to help him traverse the website
 
